@@ -44,5 +44,8 @@ public class QuestionActivity extends AppCompatActivity {
         imgques.setImageBitmap(decodedByte);
         main_container = (LinearLayout) findViewById(R.id.main_container);
         main_container.addView(zoomView);
+
+
+        //my changes
     }
 }
